@@ -1,0 +1,8 @@
+To compile this project -
+1. Download the javac Compilar
+2. Open the two different command prompts OR open different command pront in two computers and access your      project file using CD command
+3. Compile and run the Server.java file  in a first command prompt using following command 
+   javac Server.java
+4. Compile and run the Client.java file in a another command prompt using following command 
+   javac Client.java
+5. Run .class files
